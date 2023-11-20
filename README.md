@@ -28,6 +28,8 @@
 * Avanade
 _________
 ## ESTERO
+# Lituania
+* Infare
 _________
 ## TOP-TECH
 * Microsoft
@@ -44,3 +46,5 @@ ___________
 * Booz Allen Hamilton
 * Deloitte
 * KPMG
+* Heys
+* Reply
