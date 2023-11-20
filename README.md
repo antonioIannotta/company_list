@@ -1,4 +1,4 @@
-### company_list
+# company_list
 
 ## ITALIA
 * Leonardo
@@ -26,10 +26,56 @@
 * Special Video
 * Kyndryl
 * Avanade
+* Iliad
+* Datalogic
+* Fiven
+* Raytec Vision
+* Crif
+* Findomestic Banca
+* Octopus Energy
+* Hitachi
+* Vegan Solutions
+* Atlantic Technologies
+* GTT
+* Luxoft
+* Engineering
+* Lutech
+* Trace One
+* Relatech
+* TIM
+* Air Apps
+* Technogym
+* Banca Mediolanum
 _________
 ## ESTERO
-# Lituania
+### Lituania
 * Infare
+* Kickertech
+* Telia
+* Tietoevry
+* Wargaming
+* Satalia
+### Olanda
+* Philips
+* Zanders
+* Thales
+* CGI
+* Roamler
+* Centric
+* Radancy
+* Trend Micro Europe
+### Irlanda
+* Millennium
+* EML
+* Collabera Digital
+* ServiceNow
+* LexisNexis Risk Solutions
+* MongoDB
+* Stripe
+* Twilio
+* Optum
+* Grand Thornton Ireland
+* Consensys
 _________
 ## TOP-TECH
 * Microsoft
@@ -38,6 +84,20 @@ _________
 * Amazon
 * IBM
 * Apple
+* Tesla
+* NordVPN
+* Sony
+* Mastercard
+* Intel
+* Autodesk
+* Adobe
+* Reddit
+* Siemens
+* Discord
+* Samsung
+* Docker
+* Salesforce
+* SAP
 ___________
 ## CONSULTING
 * Boston Consulting Group
@@ -48,3 +108,7 @@ ___________
 * KPMG
 * Heys
 * Reply
+* Globant
+* Akkodis
+* Pwc
+* Teoresi
