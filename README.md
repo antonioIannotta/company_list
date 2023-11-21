@@ -46,6 +46,9 @@
 * Air Apps
 * Technogym
 * Banca Mediolanum
+* HCL
+* Movyon
+* Atlas Copco
 _________
 ## ESTERO
 ### Lituania
@@ -98,6 +101,9 @@ _________
 * Docker
 * Salesforce
 * SAP
+* Verizon
+* Ubisoft
+* STMicroelectronics
 ___________
 ## CONSULTING
 * Boston Consulting Group
