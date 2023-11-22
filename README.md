@@ -49,6 +49,7 @@
 * HCL
 * Movyon
 * Atlas Copco
+* VEM
 _________
 ## ESTERO
 ### Lituania
@@ -104,6 +105,8 @@ _________
 * Verizon
 * Ubisoft
 * STMicroelectronics
+* VMWare
+* Docker
 ___________
 ## CONSULTING
 * Boston Consulting Group
