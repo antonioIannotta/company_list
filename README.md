@@ -50,6 +50,9 @@
 * Movyon
 * Atlas Copco
 * VEM
+* Kineton
+* Defence Tech Holding
+* ESA
 _________
 ## ESTERO
 ### Lituania
@@ -107,6 +110,7 @@ _________
 * STMicroelectronics
 * VMWare
 * Docker
+* NVIDIA
 ___________
 ## CONSULTING
 * Boston Consulting Group
@@ -121,3 +125,4 @@ ___________
 * Akkodis
 * Pwc
 * Teoresi
+* Iconsulting
