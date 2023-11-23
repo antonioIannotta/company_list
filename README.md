@@ -53,6 +53,8 @@
 * Kineton
 * Defence Tech Holding
 * ESA
+* RINA
+* Horizon security
 _________
 ## ESTERO
 ### Lituania
