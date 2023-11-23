@@ -128,3 +128,84 @@ ___________
 * Pwc
 * Teoresi
 * Iconsulting
+___________
+## Emilia Romagna
+* Iconsulting
+* Engineering
+* Deloitte
+* Ferrari
+* Ducati
+* Lamborghini
+* Maserati
+* Dallara
+* Pagani
+* Reply
+* Onit
+* Avanade
+* Technogym
+* Datalogic
+* Fores Engineering
+* Vem Sistemi
+* Prometeia
+* BitBang
+* Maps Group
+* Teoresi
+* Pwc
+* Accenture
+* Capgemini
+* Randstad
+* Vertiv
+* KPMG
+* NTT Data
+* L3Harris Technologies
+* Spindox
+* Hays
+* Raytech Video
+* Special Video
+* JMA Wireless
+* Dedalus
+* Gilbarco Vedeer-Root
+* Eviden
+* Wolters Kluwer
+* Globant
+* Vertiv
+* Docker
+* TUI
+* ZURU Tech Italy
+* Mozarc Medical
+* Akkodis
+* RoboMagister
+* Var Group
+* Siemens
+* Afea
+* Versuni
+* Sorint.lab
+* Lantech LongWave
+* Ankers
+* STEF
+* CAI
+* BSG
+* GSK
+* Sanmarco Informatica
+* Glocomms
+* TELUS international
+* DocPlanner
+* Horizons
+* Agoda
+* ION
+* IQVIA
+* Bluetab
+* BlueIT
+* EFSA
+* InterSystems
+* Join.com
+* Amaris Consulting
+* BIP
+* Quadcode
+* Applied
+* Databricks
+* Promaton
+* Versuni
+* AlmavivA
+* Energee3
+* IMA
