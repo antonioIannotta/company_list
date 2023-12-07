@@ -12,4 +12,12 @@
 * Bending Spoons
 * NTT Data
 * Datalogic
-* Heys
+* Hays
+* Thales
+* LHH
+* Teoresi Group
+* Abylsen
+* Vegan Solutions
+* JMA Wireless
+* Hitachi Rail
+* Avanade
