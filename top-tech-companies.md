@@ -36,3 +36,9 @@
 * Zalando
 * PayPal
 * OpenAI
+* Mozilla Firefox
+* JetBrains
+* 2K
+* Ubisoft
+* Sky
+* Bloomberg
