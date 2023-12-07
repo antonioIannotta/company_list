@@ -29,3 +29,10 @@
 * Samsung
 * Adobe
 * Intuit
+* NordVPN
+* Reddit
+* LinkedIn
+* Discord
+* Zalando
+* PayPal
+* OpenAI
