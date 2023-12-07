@@ -1,0 +1,31 @@
+# Top tech
+* Alphabet
+* Microsoft
+* IBM
+* Sony
+* Rockstar
+* Huawei
+* LG
+* Apple
+* Amazon
+* Nvidia
+* Intel
+* Cisco
+* Siemens
+* SalesForce
+* Uber
+* Adobe
+* Github
+* Netflix
+* Cloudflare
+* Tesla
+* Oracle
+* AMD
+* SAP
+* VMWare
+* STMicroelectronics
+* Spotify
+* Electronic Arts
+* Samsung
+* Adobe
+* Intuit
