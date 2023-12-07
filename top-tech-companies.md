@@ -42,3 +42,4 @@
 * Ubisoft
 * Sky
 * Bloomberg
+* Ericsson
