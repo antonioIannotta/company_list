@@ -22,7 +22,6 @@
 * Stream
 * Workato
 * Status
-* NordVPN
 * Hearsay Systems
 * TravelPark
 * Enki
