@@ -1,4 +1,4 @@
-# Software engineering in Europe ([!wellfound.com])
+# Software engineering in Europe ([wellfound.com])
 * Shift technology
 * Dashlene
 * Netskope
