@@ -29,4 +29,45 @@
 * DIMO
 * Improbable
 * TeamShield
-* 
+* Peloton Interactive
+* Simula
+* Pleo
+* Huddle
+* CARTO
+* SuperTokens
+* Teller
+* Data&Data
+* flox
+* bask health
+* Karbon
+* Project A
+* EoT Labs
+* Venice Music
+* Datavant
+* IonQ
+* Xceed
+* Revolut
+* Clever cloud
+* Pagoda
+* Hayden AI
+* Metaview
+* Open Health Network
+* Distribution Technologies
+* Accurx
+* Freecords
+* Finesse
+* Emsisoft
+* TryeLayer
+* Costructor.io
+* Certa
+* CreativeX
+* Promaton
+* Shmiede.one
+* Dardiologs
+* SPREAD
+* Qubit9
+* Doctolib
+* SumUp
+* Riot
+* BeyondTrust
+* Addevice
