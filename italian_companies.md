@@ -31,3 +31,6 @@
 * Italo
 * Ducati
 * Swisslog
+* RE: Lab
+* Nozomi networks
+* Aveva
