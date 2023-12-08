@@ -21,3 +21,10 @@
 * JMA Wireless
 * Hitachi Rail
 * Avanade
+* Intesa San Paolo
+* Sorgenia
+* Edison
+* Banca Sistema
+* Codermine
+* IZI Lab
+
