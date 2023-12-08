@@ -80,3 +80,5 @@
 * LSE Space
 * Helsing
 * Snowflake
+* Remitly
+* GE Healthcare
