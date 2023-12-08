@@ -70,3 +70,8 @@
 * Riot
 * BeyondTrust
 * Addevice
+* Micron Technology
+* Telia
+* Inetum
+* Atlas Copco
+* 
