@@ -50,3 +50,5 @@
 * HCL
 * GitLab
 * CyberArk
+* Visa
+* Mastercard
