@@ -50,6 +50,4 @@
 * HCL
 * GitLab
 * CyberArk
-* Visa
-* Mastercard
 * Red Hat
