@@ -95,4 +95,6 @@
 * Cephied
 * Teltonika
 * Wargaming
+* Omniva Eesti
+* Galenica
 * 
