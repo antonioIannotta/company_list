@@ -4,3 +4,5 @@
 * Mastercard
 * Visa
 * JP Morgan
+* Nasdaq
+* Barclays
