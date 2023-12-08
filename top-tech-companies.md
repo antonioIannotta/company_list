@@ -52,3 +52,4 @@
 * CyberArk
 * Visa
 * Mastercard
+* Red Hat
