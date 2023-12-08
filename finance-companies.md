@@ -6,3 +6,4 @@
 * JP Morgan
 * Nasdaq
 * Barclays
+* UBS
