@@ -30,3 +30,4 @@
 * Trenitalia
 * Italo
 * Ducati
+* Swisslog
