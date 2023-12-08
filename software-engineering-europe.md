@@ -74,4 +74,9 @@
 * Telia
 * Inetum
 * Atlas Copco
-* 
+* Airbus
+* Paramount International
+* BitcoinSuisse
+* LSE Space
+* Helsing
+* Snowflake
