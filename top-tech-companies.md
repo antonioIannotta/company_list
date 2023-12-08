@@ -48,3 +48,4 @@
 * Dropbox
 * Mega
 * HCL
+* GitLab
