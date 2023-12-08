@@ -45,3 +45,5 @@
 * Ericsson
 * Quora
 * Unity
+* Dropbox
+* Mega
