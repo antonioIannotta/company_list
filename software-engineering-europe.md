@@ -82,3 +82,17 @@
 * Snowflake
 * Remitly
 * GE Healthcare
+* Upstream
+* Crowdstrike
+* Surfshark
+* Tenable
+* SymphonyAI
+* Orange Business
+* NS
+* LastPass
+* Avia Solutions Group
+* NNG LLC
+* Cephied
+* Teltonika
+* Wargaming
+* 
