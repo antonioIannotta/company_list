@@ -97,4 +97,5 @@
 * Wargaming
 * Omniva Eesti
 * Galenica
-* 
+* Swiss aviation software
+* NetApp
