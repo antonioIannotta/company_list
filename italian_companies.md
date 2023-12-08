@@ -27,4 +27,6 @@
 * Banca Sistema
 * Codermine
 * IZI Lab
-
+* Trenitalia
+* Italo
+* Ducati
