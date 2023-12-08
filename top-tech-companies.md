@@ -43,3 +43,5 @@
 * Sky
 * Bloomberg
 * Ericsson
+* Quora
+* Unity
