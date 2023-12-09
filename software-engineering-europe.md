@@ -119,3 +119,7 @@
 * SentinelOne
 * Luxair
 * Medpace
+* Zendesk
+* Nexer
+* Tom Tom
+* Convatech
