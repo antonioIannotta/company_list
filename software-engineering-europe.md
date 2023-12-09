@@ -123,3 +123,4 @@
 * Nexer
 * Tom Tom
 * Convatech
+* GSK
