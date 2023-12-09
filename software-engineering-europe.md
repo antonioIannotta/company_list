@@ -99,3 +99,13 @@
 * Galenica
 * Swiss aviation software
 * NetApp
+* Musixmatch
+* AbbVie
+* Medtronic digital surgery
+* Axelera AI
+* Optimus search
+* Amicus
+* Huld
+* Zurich Insurance
+* Gen network security
+* Elekta
