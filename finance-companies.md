@@ -10,3 +10,5 @@
 * Swedbank
 * BCE
 * Banca d'Italia
+* Citigroup
+* HSBC
