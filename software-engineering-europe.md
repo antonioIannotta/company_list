@@ -125,3 +125,10 @@
 * Convatech
 * GSK
 * Intercom
+* Jobot
+* Urbantz
+* UL solutions
+* IQVIA
+* Solita
+* Centric Software
+* 
