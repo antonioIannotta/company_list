@@ -13,3 +13,7 @@
 * Aston Martin
 * McLaren
 * Volvo
+* Ducati
+* Yamaha
+* Honda
+* Hyundai
