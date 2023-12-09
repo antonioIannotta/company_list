@@ -12,3 +12,5 @@
 * Banca d'Italia
 * Citigroup
 * HSBC
+* Unicredit
+* BNP Paribas
