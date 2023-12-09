@@ -35,3 +35,5 @@
 * Nozomi networks
 * Aveva
 * L3Harris Technologies
+* Defence Tech holding
+* 
