@@ -55,3 +55,4 @@
 * Dyson
 * Applied Materials
 * GE Renewable Energy
+* Fujitsu
