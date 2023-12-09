@@ -34,3 +34,4 @@
 * RE: Lab
 * Nozomi networks
 * Aveva
+* L3Harris Technologies
