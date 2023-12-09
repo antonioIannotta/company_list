@@ -7,3 +7,6 @@
 * Nasdaq
 * Barclays
 * UBS
+* Swedbank
+* BCE
+* Banca d'Italia
