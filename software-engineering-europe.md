@@ -109,3 +109,9 @@
 * Zurich Insurance
 * Gen network security
 * Elekta
+* Canonical
+* Zenseact
+* Arista Networks
+* Aiosyn
+* Blend
+* 
