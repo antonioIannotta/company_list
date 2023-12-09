@@ -52,3 +52,4 @@
 * CyberArk
 * Red Hat
 * Autodesk
+* Dyson
