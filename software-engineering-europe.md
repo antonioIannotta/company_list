@@ -116,4 +116,5 @@
 * Blend
 * Meltwater
 * YouGov
+* SentinelOne
 * 
