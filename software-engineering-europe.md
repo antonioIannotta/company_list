@@ -124,3 +124,4 @@
 * Tom Tom
 * Convatech
 * GSK
+* Intercom
