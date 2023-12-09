@@ -17,3 +17,5 @@
 * Yamaha
 * Honda
 * Hyundai
+* AUDI
+* BMW
