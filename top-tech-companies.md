@@ -56,3 +56,5 @@
 * Applied Materials
 * GE Renewable Energy
 * Fujitsu
+* Palo Alto Networks
+* AT&T
