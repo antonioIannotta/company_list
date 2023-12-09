@@ -53,3 +53,5 @@
 * Red Hat
 * Autodesk
 * Dyson
+* Applied Materials
+* 
