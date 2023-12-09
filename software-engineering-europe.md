@@ -115,4 +115,5 @@
 * Aiosyn
 * Blend
 * Meltwater
+* YouGov
 * 
