@@ -19,3 +19,5 @@
 * Cognizant
 * Lockheed Martin
 * CGI
+* Globant
+* Teoresi
