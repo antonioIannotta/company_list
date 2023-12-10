@@ -56,3 +56,6 @@
 *  Universidade Nova de Lisboa - Portogallo
 *  Technische Universität Wien - Austria
 *  Budapest University of Technology and Economics - Ungheria
+*  Institut Polytechnique de Paris - Francia
+*  Université Paris-Saclay - Francia
+*  Institut polytechnique de Grenoble - Grenoble Institute of Technology - Francia
