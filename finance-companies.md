@@ -19,3 +19,10 @@
 * LSEG
 * Booking Holdings
 * Wise
+* Hudson River Trading
+* Optiver
+* Jane Street
+* Two Sigma
+* Brex
+* IMC
+* 
