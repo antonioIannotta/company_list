@@ -16,3 +16,5 @@
 * BNP Paribas
 * Brown brothers harriman
 * SWIFT
+* LSEG
+* 
