@@ -25,4 +25,5 @@
 * Two Sigma
 * Brex
 * IMC
+* Plaid
 * 
