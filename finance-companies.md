@@ -18,4 +18,4 @@
 * SWIFT
 * LSEG
 * Booking Holdings
-* 
+* Wise
