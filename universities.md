@@ -54,3 +54,5 @@
 *  University of Lisbon - Portogallo
 *  University of Porto - Portogallo
 *  Universidade Nova de Lisboa - Portogallo
+*  Technische Universität Wien - Austria
+*  Budapest University of Technology and Economics - Ungheria
