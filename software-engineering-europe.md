@@ -131,4 +131,6 @@
 * IQVIA
 * Solita
 * Centric Software
+* Pagoda
+* Matter Labs
 * 
