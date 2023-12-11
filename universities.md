@@ -1,4 +1,5 @@
 # Universities
+* Università Svizzera Italiana 
 * Umea University - Svezia
 * Delft University of Technology - Olanda
 * KTH Royal Institute of Technology - Svezia
