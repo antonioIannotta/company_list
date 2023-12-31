@@ -23,3 +23,24 @@
 * Teoresi
 * Pfizer
 * NTT Data
+* HCL
+* Noovle 
+* TIM
+* Worldwide clinical trials
+* Kinetics Technology
+* Seguoa Technologies
+* Logista  
+* Palo Alto Networks
+* Brisgestone
+* Scandit
+* ICANN
+* Collins Aerospace
+* Accenture
+* Avanade
+* IBM
+* NVIDIA
+* HAYS
+* BIP
+* Daiichi Sankyo
+* BSI
+
