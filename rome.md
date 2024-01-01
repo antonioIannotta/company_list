@@ -70,3 +70,6 @@
 * Alkemy enabling evolution
 * GeoSolutions
 * Spike Reply
+* Autodesk
+* Elastic
+* sennder
