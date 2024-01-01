@@ -43,4 +43,21 @@
 * BIP
 * Daiichi Sankyo
 * BSI
-
+* Leonardo
+* Dedem
+* Cyberoo
+* YouGov
+* Lutech
+* TMC
+* Telnyx
+* RINA
+* Consensys
+* Salesforce
+* NCR voyix
+* Onyx
+* Kyndryl
+* Danfoss
+* CISCO
+* MaticMind
+* Vantea SMART
+* Polo strategico nazionale
