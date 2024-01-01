@@ -61,3 +61,12 @@
 * MaticMind
 * Vantea SMART
 * Polo strategico nazionale
+* Ericsson
+* Enel
+* Microsoft
+* Marx group of solutions
+* CGI
+* Red Hat
+* Alkemy enabling evolution
+* GeoSolutions
+* Spike Reply
