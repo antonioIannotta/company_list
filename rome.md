@@ -73,3 +73,11 @@
 * Autodesk
 * Elastic
 * sennder
+* Huawei
+* Lansweeper
+* Agoda
+* Baxter International
+* Sopra Steria
+* Collins Aerospace
+* Cobblestone Energy
+* 
