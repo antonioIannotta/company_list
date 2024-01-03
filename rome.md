@@ -80,4 +80,34 @@
 * Sopra Steria
 * Collins Aerospace
 * Cobblestone Energy
-* 
+* Servier
+* Bending Spoons
+* Vivo
+* Zalando
+* Kaspersky
+* Bank of Italy
+* Oxera
+* Jane Street
+* Enav
+* European Central Bank
+* Advantio
+* Clintec
+* Exein
+* LaserRomae
+* Apple
+* HP
+* MBDA
+* ELT Group
+* Google
+* Teleperformance
+* VMWare
+* Airbus
+* SAS
+* VeeamSoftware
+* SoftwareOne
+* bSI
+* SAP
+* Ness Digital Engineering
+* ESA
+* MuleSoft
+* DeepCyber
