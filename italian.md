@@ -25,6 +25,7 @@
 * Splunk
 * CGI
 * McKinsey & Company
+* Bitrock
 
 # Prodotto
 * Satispay
