@@ -94,4 +94,4 @@
 * Ducati
 * ESA
 * Electrolux
-
+* Cosmo Intelligent Medical Devices
