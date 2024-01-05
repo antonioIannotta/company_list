@@ -89,4 +89,5 @@
 * ION
 * TMC
 * DataAnnotation
-* 
+* Italo
+* Trenitalia
